@@ -7,6 +7,7 @@ AWS Deployment and Service Models
 Objective: The major purpose is to discuss road segment data to realize the trends in the pavement quality, retrieve the number of sections with poor conditions by segment location or type, and suggest what should be maintained first.
 
 Dataset: The dataset used for this analysis is a CSV file titled pavement-condition-rating-major-road-network.csv, containing 524 entries. It includes the following key fields:
+
 •	Year
 •	Road Name
 •	From Street
